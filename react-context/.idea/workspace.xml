@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7fc275b-fe39-441d-897c-7d2c9b224620" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hooks/useToggleState.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ageteller/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ageteller/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../angulartest/mean-project" beforeDir="false" afterPath="$PROJECT_DIR$/../angulartest/mean-project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../angulartest/my-first-app" beforeDir="false" afterPath="$PROJECT_DIR$/../angulartest/my-first-app" afterDir="false" />
@@ -21,12 +20,6 @@
       <change beforePath="$PROJECT_DIR$/../hooks-grocery-list/src/hooks/useTodoState.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hooks-grocery-list/src/hooks/useTodoState.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hooks-grocery-list/src/hooks/useToggleState.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hooks-grocery-list/src/hooks/useToggleState.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../insurance-forms" beforeDir="false" afterPath="$PROJECT_DIR$/../insurance-forms" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Form.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PageContent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/PageContent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contexts/LanguageContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/contexts/LanguageContext.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contexts/ThemeContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/contexts/ThemeContext.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../react-hooks/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react-hooks/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../react-hooks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react-hooks/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../reactCourse" beforeDir="false" afterPath="$PROJECT_DIR$/../reactCourse" afterDir="false" />
@@ -258,19 +251,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594913660723</updated>
-      <workItem from="1594913662481" duration="12188000" />
+      <workItem from="1594913662481" duration="12409000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12188000" />
+    <option name="totallyTimeSpent" value="12409000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="671" height="777" extended-state="0" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.48" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.48" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
