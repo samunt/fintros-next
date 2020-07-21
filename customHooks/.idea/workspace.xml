@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="048ea54a-fcdd-475e-9c06-128cc4b7a8f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ageteller/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ageteller/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angulartest/mean-project" beforeDir="false" afterPath="$PROJECT_DIR$/../angulartest/mean-project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angulartest/my-first-app" beforeDir="false" afterPath="$PROJECT_DIR$/../angulartest/my-first-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color-palette" beforeDir="false" afterPath="$PROJECT_DIR$/../color-palette" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom-hooks/src/Toggler.js" beforeDir="false" afterPath="$PROJECT_DIR$/custom-hooks/src/Toggler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../finaeo-ui" beforeDir="false" afterPath="$PROJECT_DIR$/../finaeo-ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forms/src/Components/FormComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/../forms/src/Components/FormComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hooks-grocery-list/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hooks-grocery-list/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hooks-grocery-list/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hooks-grocery-list/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hooks-grocery-list/src/EditTodoForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hooks-grocery-list/src/EditTodoForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hooks-grocery-list/src/Todo.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hooks-grocery-list/src/Todo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hooks-grocery-list/src/TodoApp.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hooks-grocery-list/src/TodoApp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hooks-grocery-list/src/TodoForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hooks-grocery-list/src/TodoForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hooks-grocery-list/src/hooks/useInputState.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hooks-grocery-list/src/hooks/useInputState.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hooks-grocery-list/src/hooks/useLocalStorageState.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hooks-grocery-list/src/hooks/useLocalStorageState.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hooks-grocery-list/src/hooks/useTodoState.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hooks-grocery-list/src/hooks/useTodoState.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hooks-grocery-list/src/hooks/useToggleState.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hooks-grocery-list/src/hooks/useToggleState.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../insurance-forms" beforeDir="false" afterPath="$PROJECT_DIR$/../insurance-forms" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-context/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react-context/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-hooks/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react-hooks/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-hooks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react-hooks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reactCourse" beforeDir="false" afterPath="$PROJECT_DIR$/../reactCourse" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../router-project-dogs" beforeDir="false" afterPath="$PROJECT_DIR$/../router-project-dogs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scraper" beforeDir="false" afterPath="$PROJECT_DIR$/../scraper" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../supersquad" beforeDir="false" afterPath="$PROJECT_DIR$/../supersquad" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo" beforeDir="false" afterPath="$PROJECT_DIR$/../todo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twillio" beforeDir="false" afterPath="$PROJECT_DIR$/../twillio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/tech-challenge-samut" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/tech-challenge-samut" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/custom-hooks/src/Clicker.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/custom-hooks/src/hooks/useToggle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="65">
+              <caret line="7" column="8" lean-forward="true" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/custom-hooks/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/custom-hooks/src/StarWarsMovies.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="12" column="73" selection-start-line="12" selection-start-column="73" selection-end-line="12" selection-end-column="73" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/custom-hooks/src/hooks/useFormState.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="47">
+              <caret line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/custom-hooks" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/custom-hooks/src/hooks/useToggle.js" />
+        <option value="$PROJECT_DIR$/custom-hooks/src/hooks/AddButton.js" />
+        <option value="$PROJECT_DIR$/custom-hooks/src/hooks/AdditionalButton.js" />
+        <option value="$PROJECT_DIR$/custom-hooks/src/AddButton.js" />
+        <option value="$PROJECT_DIR$/custom-hooks/src/Toggler.js" />
+        <option value="$PROJECT_DIR$/custom-hooks/src/hooks/useFormState.js" />
+        <option value="$PROJECT_DIR$/custom-hooks/src/SimpleFormInputHook.js" />
+        <option value="$PROJECT_DIR$/custom-hooks/src/SimpleFormClass.js" />
+        <option value="$PROJECT_DIR$/custom-hooks/src/SimpleFormHooks.js" />
+        <option value="$PROJECT_DIR$/custom-hooks/src/CounterClass.js" />
+        <option value="$PROJECT_DIR$/custom-hooks/src/hooks/CounterHooks.js" />
+        <option value="$PROJECT_DIR$/custom-hooks/src/Clicker.js" />
+        <option value="$PROJECT_DIR$/custom-hooks/src/App.js" />
+        <option value="$PROJECT_DIR$/custom-hooks/src/StarWarsMovies.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="288" />
+    <option name="width" value="673" />
+    <option name="height" value="512" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="customHooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customHooks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customHooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customHooks" type="462c0819:PsiDirectoryNode" />
+              <item name="custom-hooks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customHooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customHooks" type="462c0819:PsiDirectoryNode" />
+              <item name="custom-hooks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customHooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customHooks" type="462c0819:PsiDirectoryNode" />
+              <item name="custom-hooks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hooks" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/custom-hooks/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="048ea54a-fcdd-475e-9c06-128cc4b7a8f3" name="Default Changelist" comment="" />
+      <created>1594218225601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594218225601</updated>
+      <workItem from="1594218227065" duration="2594000" />
+      <workItem from="1594387735253" duration="9635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12229000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="288" width="673" height="512" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23006135" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.5714286" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/custom-hooks/src/hooks/AdditionalButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-hooks/src/AddButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="64" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-hooks/src/SimpleFormClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-hooks/src/CounterClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-hooks/src/hooks/CounterHooks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-hooks/src/SimpleFormHooks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-hooks/src/SimpleFormInputHook.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-hooks/src/Toggler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-hooks/src/Clicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-hooks/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-hooks/src/StarWarsMovies.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="12" column="73" selection-start-line="12" selection-start-column="73" selection-end-line="12" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-hooks/src/hooks/useFormState.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-hooks/src/hooks/useToggle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="7" column="8" lean-forward="true" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
