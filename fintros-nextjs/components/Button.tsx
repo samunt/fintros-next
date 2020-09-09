@@ -1,8 +1,10 @@
+import * as React from 'react';
 import styled from 'styled-components'
 import {FC} from "react";
 
 type ButtonProps = {
     buttonColor: boolean
+    onClick: (event: React.MouseEvent<HTMLButtonElement>) => void
 }
 
 export const Button: FC<ButtonProps> = styled.button`

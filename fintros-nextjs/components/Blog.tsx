@@ -1,8 +1,9 @@
-import React, {FC, ReactElement, useContext} from "react";
+import * as React from 'react';
+import {FC, ReactElement, useContext, useEffect} from "react";
 import {ThemeContext} from "../contexts/ThemeContext";
-import {Button} from './Button';
-// import styles from './Blog.module.css';
-import '../styles/Blog.css';
+import ButtonContainer from './ButtonContainer'
+import styles from './Blog.module.css';
+import axios from 'axios';
 
 type BlogProps = {
     title: string
@@ -11,13 +12,8 @@ type BlogProps = {
 const Blog: FC<BlogProps> = ({title}): ReactElement => {
     const {isDarkMode} = useContext(ThemeContext);
     return (
-        <div >
-            <Button
-                buttonColor={isDarkMode ? true : false}
-            >Even</Button>
-            <Button
-                buttonColor={isDarkMode ? false : true}
-            >Odd</Button>
+        <div className={styles.displayType}>
+            <ButtonContainer/>
         </div>
     )
 };

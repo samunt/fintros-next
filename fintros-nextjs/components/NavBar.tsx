@@ -1,4 +1,5 @@
-import React, {FC, ReactElement, useContext} from 'react';
+import * as React from 'react';
+import {FC, ReactElement, useContext} from 'react';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import NavDropdown from 'react-bootstrap/NavDropdown';
