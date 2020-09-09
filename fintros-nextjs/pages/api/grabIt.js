@@ -5,21 +5,22 @@ export default (req, res) => {
           method:"GET",
           headers: {
               "Content-Type": "application/json"
-          }})
+          }
+      })
+          .then(response => response.json())
           .then(data => {
-              console.log(data)
               for (let i = 0; i < 2; i++) {
                   fetch(`https://hacker-news.firebaseio.com/v0/item/${data[i]}.json`, {
                       method: "GET",
                       headers: {
                           "Content-Type": "application/json"
                       }
-                  }).then(function(response) {
-                      return response
-                  }, function(error) {
-                      error.message
-                  })
-
+                  }).then(response => response.json())
+                      .then(data => {
+                          res.setHeader('Content-Type', 'application/json');
+                          res.end(JSON.stringify({ response: data }))
+                      })
+                      .catch(err => console.log(err))
               }
           })
           .catch(err => console.log(err))
