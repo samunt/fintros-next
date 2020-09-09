@@ -11,7 +11,7 @@ type ButtonContainerProps = {
 
 const ButtonContainer: FC<ButtonContainerProps> = ({}): ReactElement => {
     const {isDarkMode} = useContext(ThemeContext);
-    let grabitUrl = "https://hacker-news.firebaseio.com/v0/topstories.json?print=pretty";
+    let grabitUrl = "https://hacker-news.firebaseio.com/v0/user/jl.json?print=prettyy";
     function fetchData() {
             axios({
                 method: 'post',
@@ -33,11 +33,11 @@ const ButtonContainer: FC<ButtonContainerProps> = ({}): ReactElement => {
         <div style={{display:'flex', flexDirection:'row', justifyContent:'space-between'}}>
             <Button
                 buttonColor={!!isDarkMode}
-                onClick={ () => {fetchData}}
+                onClick={ () => fetchData()}
             >Even</Button>
             <Button
                 buttonColor={!isDarkMode}
-                onClick={ () => {fetchData}}
+                onClick={ () => fetchData()}
             >Odd</Button>
         </div>
     )

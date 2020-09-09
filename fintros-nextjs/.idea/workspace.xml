@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b7d1c1a-3c31-4aa5-b28c-c1a5304b2531" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/components/ButtonContainer.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../color-palette" beforeDir="false" afterPath="$PROJECT_DIR$/../color-palette" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Blog.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Blog.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Blog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Blog.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Button.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/NavBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/NavBar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/useToggleState.js" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/useToggleState.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/api/hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/grabIt.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ButtonContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ButtonContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/api/grabIt.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/grabIt.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../reactCourse" beforeDir="false" afterPath="$PROJECT_DIR$/../reactCourse" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../router-project-dogs" beforeDir="false" afterPath="$PROJECT_DIR$/../router-project-dogs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../scraper" beforeDir="false" afterPath="$PROJECT_DIR$/../scraper" afterDir="false" />
@@ -41,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/Blog.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -50,20 +41,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/api/grabIt.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+            <state relative-caret-position="135">
+              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/ButtonContainer.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+            <state relative-caret-position="290">
+              <caret line="29" column="15" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="29" selection-end-column="15" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -109,10 +100,10 @@
         <option value="$PROJECT_DIR$/pages/index.js" />
         <option value="$PROJECT_DIR$/pages/_app.js" />
         <option value="$PROJECT_DIR$/components/Blog.module.css" />
-        <option value="$PROJECT_DIR$/pages/api/grabIt.js" />
-        <option value="$PROJECT_DIR$/components/Blog.tsx" />
         <option value="$PROJECT_DIR$/components/Button.tsx" />
+        <option value="$PROJECT_DIR$/components/Blog.tsx" />
         <option value="$PROJECT_DIR$/components/ButtonContainer.tsx" />
+        <option value="$PROJECT_DIR$/pages/api/grabIt.js" />
       </list>
     </option>
   </component>
@@ -236,12 +227,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599603357754</updated>
-      <workItem from="1599603359106" duration="8598000" />
+      <workItem from="1599603359106" duration="9870000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8598000" />
+    <option name="totallyTimeSpent" value="9870000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="146" y="23" width="1280" height="777" extended-state="0" />
@@ -389,27 +380,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/api/grabIt.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/Blog.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -426,13 +400,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/ButtonContainer.tsx">
+    <entry file="file://$PROJECT_DIR$/components/Blog.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/ButtonContainer.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="29" column="15" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="29" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/api/grabIt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
         </state>
       </provider>
     </entry>

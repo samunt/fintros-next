@@ -3,7 +3,6 @@ import {FC, ReactElement, useContext, useEffect} from "react";
 import {ThemeContext} from "../contexts/ThemeContext";
 import ButtonContainer from './ButtonContainer'
 import styles from './Blog.module.css';
-import axios from 'axios';
 
 type BlogProps = {
     title: string
