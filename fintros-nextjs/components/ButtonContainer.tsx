@@ -11,7 +11,7 @@ type ButtonContainerProps = {
 
 const ButtonContainer: FC<ButtonContainerProps> = ({}): ReactElement => {
     const {isDarkMode} = useContext(ThemeContext);
-    let grabitUrl = "https://hacker-news.firebaseio.com/v0/user/jl.json?print=prettyy";
+    let grabitUrl = "https://hacker-news.firebaseio.com/v0/topstories.json";
     function fetchData() {
             axios({
                 method: 'post',
